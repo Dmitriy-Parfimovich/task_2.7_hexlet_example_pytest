@@ -3,3 +3,8 @@ __pycache__
 dist
 *.save
 *.рус
+*.egg-info
+.coverage
+coverage.xml
+.pytest_cache/
+.vim
