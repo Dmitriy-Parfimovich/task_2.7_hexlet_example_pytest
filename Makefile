@@ -8,7 +8,7 @@ test-coverage:
 	poetry run pytest --cov=hexlet_pytest
 
 lint:
-	poetry run flake8 hexlet_pytest
+	poetry run flake8
 
 selfcheck:
 	poetry check
