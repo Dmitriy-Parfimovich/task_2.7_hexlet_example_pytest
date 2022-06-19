@@ -1,1 +1,1 @@
-![Github Actions Status](https://github.com/Dmitriy-Parfimovich/task_2.7_hexlet_example_pytest/actions/workflows/pyci.yml/badge.svg?branch=master)
+[![Github Actions Status](https://github.com/Dmitriy-Parfimovich/task_2.7_hexlet_example_pytest/actions/workflows/pyci.yml/badge.svg?branch=master)](https://github.com/Dmitriy-Parfimovich/task_2.7_hexlet_example_pytest/actions/workflows/pyci.yml)
