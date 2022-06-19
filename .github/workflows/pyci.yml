@@ -27,4 +27,3 @@ jobs:
           make check
       - name: Test & publish code coverage
         run: make test-coverage
-        debug: true
